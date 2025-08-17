@@ -16,6 +16,9 @@ Project Overview
 This portfolio site is built with Docker and hosted using NGINX. It showcases my DevOps skills and is deployed locally or can be hosted on AWS EC2.
 
 How to Run
+docker info
+
+docker version (make sure that docker desktop is running)
 
 docker build -t devops-portfolio .
 
